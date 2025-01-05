@@ -22,8 +22,8 @@ Full Stack Developer
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ertanizm&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+### 😂 Software Meme
+<img src="[https://rm.up.railway.app/](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Fplayful-3d-monkey-showcasing-its-tech-skills-as-talented-software-developer-perfect-illustrating-joy-coding_202173033.htm&psig=AOvVaw1aT0Uq8PbWmBKATgIL-D3k&ust=1736205178858000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiF_Lna34oDFQAAAAAdAAAAABAE)" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ertanizm&icon=2&color=0)](https://visitcount.itsvg.in)
