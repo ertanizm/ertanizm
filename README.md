@@ -10,20 +10,18 @@ Full Stack Developer
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ertanizm&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ertanizm&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ertanizm&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?-->username=ertanizm&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ertanizm&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Vizyonum
 <p>`` İyi bir başlangıç, yarı yarıya başarı demektir. `` André Gide</p>
 <!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)-->
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ertanizm&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Software Meme
-<img src="[https://rm.up.railway.app/](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Fplayful-3d-monkey-showcasing-its-tech-skills-as-talented-software-developer-perfect-illustrating-joy-coding_202173033.htm&psig=AOvVaw1aT0Uq8PbWmBKATgIL-D3k&ust=1736205178858000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiF_Lna34oDFQAAAAAdAAAAABAE)" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ertanizm&icon=2&color=0)](https://visitcount.itsvg.in)
