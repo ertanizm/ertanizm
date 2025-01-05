@@ -16,7 +16,8 @@ Full Stack Developer
 ![](https://github-profile-trophy.vercel.app/?username=ertanizm&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p>`` İyi bir başlangıç, yarı yarıya başarı demektir. `` André Gide</p>
+<!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)-->
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ertanizm&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
